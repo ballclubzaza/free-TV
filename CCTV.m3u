@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="FTV" tvg-logo="https://www.mediafire.com/view/f0jiyjlsddiz7hd/FTV.jpeg/file",FTV?1
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8?
+
+#EXTINF:-1 group-title="FTV" tvg-logo="https://www.mediafire.com/view/f0jiyjlsddiz7hd/FTV.jpeg/file",FTV?2
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8?
+
+#EXTINF:-1 group-title="FTV" tvg-logo="https://www.mediafire.com/view/f0jiyjlsddiz7hd/FTV.jpeg/file",FTV?3
+https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/chunklist_b2878000_t64RGVmYXVsdA==.m3u8?
+
+#EXTINF:-1 group-title="cctv" tvg-logo="https://www.mediafire.com/view/y1bjjwqkr4p6fn2/123.jpeg/file",CCTV?4
+https://r4---sn-w5nuxa-25oe.googlevideo.com/videoplayback?expire=1614444107&ei=6yE6YKanLKaF4-EP0_6n-AY&ip=2403%3A6200%3A8986%3A66a0%3A41b9%3A8c16%3A97ec%3Ab10f&id=vCDDYb_M2B4.5&itag=136&aitags=133%2C134%2C135%2C136%2C137%2C160&source=yt_live_broadcast&requiressl=yes&mh=nC&mm=44%2C29&mn=sn-w5nuxa-25oe%2Csn-w5nuxa-c33ek&ms=lva%2Crdu&mv=m&mvi=4&pl=48&initcwndbps=1230000&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=0CYFuT2AJqUgI0KkXAy1xVkF&gir=yes&mt=1614422177&fvip=4&keepalive=yes&fexp=24007247&c=WEB&n=cVa60O0v5kFCOA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIhAKigEkyY6lT2Szu1AHr_7QcSmMEdDHYhBYzIwOrZWqzbAiAELnmPB3Q2UipI6fEnlDiPLnpjn0s7JtGZ6YpVArewhw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAJXs1SwcWJ2dOzsM1cv1DIMtuP9v6VxKnlcUyDbgg21JAiEAsdvGbs9udHGFlvEQQMx2K_eJvyLPeWuujgFOXyzJpJo%3D&alr=yes&cpn=ZMUUG64Ra-vrp-3F&cver=2.20210224.06.00&headm=3&rn=1
+
+#EXTINF:-1 group-title="cctv" tvg-logo="https://www.mediafire.com/view/y1bjjwqkr4p6fn2/123.jpeg/file",CCTV?10
+http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+
+#EXTINF:-1 group-title="cctv" tvg-logo="https://www.mediafire.com/view/y1bjjwqkr4p6fn2/123.jpeg/file",CCTV?11
+http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+
+#EXTINF:-1 group-title="cctv" tvg-logo="https://www.mediafire.com/view/y1bjjwqkr4p6fn2/123.jpeg/file",CCTV?12
+http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+
+#EXTINF:-1 group-title="cctv" tvg-logo="https://www.mediafire.com/view/y1bjjwqkr4p6fn2/123.jpeg/file",CCTV?2
+http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+
+#EXTINF:-1 group-title="cctv" tvg-logo="https://www.mediafire.com/view/y1bjjwqkr4p6fn2/123.jpeg/file",CCTV?7
+http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+
+#EXTINF:-1 group-title="cctv" tvg-logo="https://www.mediafire.com/view/y1bjjwqkr4p6fn2/123.jpeg/file",CCTV?8
+http://ivi.bupt.edu.cn/hls/cctv8.m3u8
+
+#EXTINF:-1 group-title="cctv" tvg-logo="https://www.mediafire.com/view/y1bjjwqkr4p6fn2/123.jpeg/file",CCTV?3
+http://ivi.bupt.edu.cn/hls/cctv3.m3u8
