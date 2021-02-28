@@ -1,0 +1,164 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="???????????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi92Al0PMZxdBJGE1ARWenjVPSX9NP6D00-Q&usqp=CAU", CH 5
+http://160.119.77.116:8081/iptv/hd-ch5.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="???????????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOOz2Wf1LTkX_nf0l4stcLW8FltuAc_RpILQ&usqp=CAU",  NBT
+http://160.119.77.116:8081/iptv/sd-nbt.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="???????????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEX4t1WjnFfiqIGj_jDGntmkzlbS-Y6_zV6w&usqp=CAU", Thai PBS
+http://160.119.77.116:8081/iptv/hd-tpbs.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="???????????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT3VFvpeRC0EG8Ow3ToJlwJGdwL5vn5__C9w&usqp=CAU", TNN? 16
+https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
+
+EXTINF:-1 group-title="???????????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwSfBOQmy_WOMreWjUS7BgGBkAk_XvV83wg&usqp=CAU", WORKPOINT?
+http://160.119.77.116:8081/iptv/hd-workpoint.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="???????????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlD-DzL03WuWqa9Ey6FeOWwEfqUbKA2rKB5g&usqp=CAU", True?4U?
+http://160.119.77.116:8081/iptv/sd-24u.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="???????????" tvg-logo="https://www.movieclubhd.tv/src/images/live/tvdigital_ch8_480p.jpg", CH? 8
+http://160.119.77.116:8081/iptv/hd-ch8.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="???????????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThOWFHcWi6mfovEeHGGRnx-KOsgI8Y5TGcRw&usqp=CAU", MONO? 29
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
+
+#EXTINF:-1 group-title="???????????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIt1eRVAzNJSNPNKfmbWOBJbIPuvYVk1kB-w&usqp=CAU", MCOT? 30
+http://160.119.77.116:8081/iptv/hd-mcot.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="???????????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1c_Y3WMEcH5Xm4gLLe6P8FJxfLjvCGDdi2A&usqp=CAU", ONE? 31
+http://160.119.77.116:8081/iptv/hd-gmmone.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="???????????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm7uvZbN0xOhznJ-Eb3oUcUhXfUq5RtPZIqg&usqp=CAU", Thairath?
+https://cdn6.goprimetime.info/feed/chthairath/index.m3u8
+
+#EXTINF:-1 group-title="???????????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQowrnrVluavGPdBIA5CbwZ097ROqmtFe-3ug&usqp=CAU", CH 3
+http://160.119.77.116:8081/iptv/hd-ch3.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="???????????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSabXw_t7nOov-8jUePNbAi4SljD9AZtyYHQ&usqp=CAU", AMARIN?
+http://160.119.77.116:8081/iptv/hd-amarin.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="???????????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW5qzu7jYFZy131ETGDE4xws6E24swu8AuoA&usqp=CAU", CH? 7
+http://160.119.77.116:8081/iptv/hd-ch7.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="???????????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHspjHVNf9RDS1I3kkqUJ1Fj-DbO3LbQP4ug&usqp=CAU", PPTV
+http://160.119.77.116:8081/iptv/hd-pptv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="?????" tvg-logo="https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd.png", True? Premie? 1
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="?????" tvg-logo="https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd2.png", True? Premie? 2
+http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="?????" tvg-logo="https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd3.png", True? Premie? 3
+http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="?????" tvg-logo="https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd4.png", True? Premie? 4
+http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="?????" tvg-logo="https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd5.png", True? Premie? 5
+http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="?????" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png", True? ?Sport? HD
+http://160.119.77.116:8081/iptv/hd-tsport1.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="?????" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png", True? ?Sport? HD2
+http://160.119.77.116:8081/iptv/hd-tsport2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="?????" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png", True? ?Sport? HD3
+http://160.119.77.116:8081/iptv/hd-tsport3.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="?????" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png", True? ?Sport? HD4
+http://160.119.77.116:8081/iptv/hd-tsport4.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="?????" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport2.png", True? ?Sport?2
+http://160.119.77.116:8081/iptv/sd-tsport2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="?????" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport5.png", True? ?Sport?5
+http://160.119.77.116:8081/iptv/sd-tsport5.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="?????" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport6.png", True? ?Sport?6
+https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="?????" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport7.png", True? ?Sport?7
+https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="?????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ogiX67s7-ngXWADPdP7Oo3k7uQiHHG6V5A&usqp=CAU", BT? SPORT?S? 1
+http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="?????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_y1y9xW3DmWRguard-I1R8QYBkvV5p8KGCg&usqp=CAU", BT? SPORT?S 2
+http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="?????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_nFv0hF0YjEtd7GkPn207jzQb9Z_Z29rqwg&usqp=CAU", BT? SPORT?S 3
+http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="?????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdIGEOAgigUbwV59nPEhLDVghJ7ycyLZzoEw&usqp=CAU", BEIN? SPORT? 1
+http://160.119.77.116:8081/iptv/epl-bein1.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="?????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCp5PkqEXlD_IdlVRrOkGe-WLH8WAomuI4oQ&usqp=CAU", BEIN? SPORT?S? 2
+http://160.119.77.116:8081/iptv/epl-bein2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="?????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCxjXT7aqDFsTkK_E_UXjnD6UTYUBquYsMWw&usqp=CAU", FOX? SPORTS? HD
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="?????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvOgKNHvWrnhJdEgIVlaLMt7fe3mVlb1lqQw&usqp=CAU", FOX? SPORTS? 2
+http://103.208.24.234:1935/thaisport/sd-foxsports2.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="?????" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602703695.jpeg", FOX? SPORTS? 3?
+http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="?????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKdg0GoHpIApKs0yVp8zzUAOT9B5esLAgn-w&usqp=CAU", SKY? SPORT?S PREMIER?
+http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="?????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVYeRHLnHLPqoraTdxnmF3netklHJ83dpMdA&usqp=CAU", SKY? SPORT?S FOOTBALL?
+http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="?????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUp7aNvsInCqqZtk0cSP31xkSFitzNRkBrUg&usqp=CAU", PREMIER? SPORTS?
+http://160.119.77.116:8081/iptv/uk-premiersports.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="?????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3EtOxqTbdW2FJAtRXjnAVWsWC-yZ3PK98VQ&usqp=CAU", SPORT?S TV?1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="?????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXGxAHuVlDpcyLm8zHgYIo2V_mBQf6R2MOJw&usqp=CAU", SPORT?S TV2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="?????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtndcW4pG-vi-Vdo1XmIkXF3ECLo2s17GNWQ&usqp=CAU", SPORT?S TV3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="?????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb7ehCipQZF4eG190LxMqFjpbLet_62ZqIdg&usqp=CAU", SPORT?S TV4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="?????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREU0Zck4i8MAUg1wG_az7WTggR4LGlfayLXA&usqp=CAU", SPORT?S TV5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="?????????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6TrbGqa5R2KIMhpTiCy8Ilv2aYTlRmlnZ0g&usqp=CAU", FOX? THAI
+https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="?????????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqXaiOevvY8AW2hSewrLESmlLHeT3NK_nj_g&usqp=CAU", TRUE? FILM?
+http://160.119.77.116:8081/iptv/hd-tfilm.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="?????????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4jZWb5TpTiK4eRfNc2Jd_buWkPP9XpVJMeg&usqp=CAU", THAI? FILM
+http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="?????????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbGWecjOBuonbTEiJcwxERzzrmgwXltmLeyA&usqp=CAU", HBO? HD
+https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="?????????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4fJqEiBLYpJ4uKOHJA8-EIu2tlF-l75_bSA&usqp=CAU", HBO? HITS
+https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="?????????" tvg-logo="https://f.ptcdn.info/717/071/000/qk9u3jer8FLhWtXPivL-o.png", BOX? FILM
+https://cdn6.goprimetime.info/feed/LC52/index.m3u8
+
+#EXTINF:-1 group-title="?????????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiml8PYs8q0L4SVluf-9JCqIFNopSN3t7qrQ&usqp=CAU", SUN
+https://cdn6.goprimetime.info/feed/LC1/index.m3u8
+
+#EXTINF:-1 group-title="?????????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgToEpmOYJ6ZNlyExadUm8ftY2U3YOF1etNA&usqp=CAU", SAMURAI
+https://cdn6.goprimetime.info/feed/LC2/index.m3u8
+
+#EXTINF:-1 group-title="????????" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb4Zd9suho35AC6mZqG-k0UkHjcx6klmlykQ&usqp=CAU",  TOON? CLUB
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title=" tvg-logo=",FTV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
