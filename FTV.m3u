@@ -1,10 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="FTV" tvg-logo="https://www.mediafire.com/view/f0jiyjlsddiz7hd/FTV.jpeg/file",FTV?1
+#EXTINF:-1 group-title="FTV" tvg-logo="https://raw.githubusercontent.com/ballclubzaza/free-TV/d15000daff7944f0b680db96e6580f1ac5c0aae0/FTV.jpeg",FTV1
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8?
 
-#EXTINF:-1 group-title="FTV" tvg-logo="https://www.mediafire.com/view/f0jiyjlsddiz7hd/FTV.jpeg/file",FTV?2
+#EXTINF:-1 group-title="FTV" tvg-logo="https://raw.githubusercontent.com/ballclubzaza/free-TV/d15000daff7944f0b680db96e6580f1ac5c0aae0/FTV.jpeg/file",FTV2
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8?
 
-#EXTINF:-1 group-title="FTV" tvg-logo="https://www.mediafire.com/view/f0jiyjlsddiz7hd/FTV.jpeg/file",FTV?3
+#EXTINF:-1 group-title="FTV" tvg-logo="https://raw.githubusercontent.com/ballclubzaza/free-TV/d15000daff7944f0b680db96e6580f1ac5c0aae0/FTV.jpeg/file",FTV3
 https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/chunklist_b2878000_t64RGVmYXVsdA==.m3u8?
+
+#EXTINF:-1 group-title="FTV" tvg-logo="https://raw.githubusercontent.com/ballclubzaza/free-TV/d15000daff7944f0b680db96e6580f1ac5c0aae0/FTV.jpeg/file",FTV4
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8?
